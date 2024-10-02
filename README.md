@@ -5,7 +5,7 @@
 This project explores the socio-economic differences between China and Japan through comprehensive Exploratory Data Analysis (EDA). By leveraging data visualization and analysis techniques, it uncovers trends, patterns, and insights across key indicators such as population, economy, and more, providing a comparative look at the two countries.
 
 
-**Key Features**
+**Key Features:**
 
 1. Data Exploration: In-depth analysis of various socio-economic variables for both China and Japan.
 2. Visualization: Detailed visualizations (charts, graphs) of key trends and differences using Python libraries.
