@@ -1,6 +1,6 @@
 # Social-Media-EDA
 
-**Overview:**
+**Overview**
 
 This project explores the socio-economic differences between China and Japan through comprehensive Exploratory Data Analysis (EDA). By leveraging data visualization and analysis techniques, it uncovers trends, patterns, and insights across key indicators such as population, economy, and more, providing a comparative look at the two countries.
 
