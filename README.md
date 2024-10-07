@@ -1,4 +1,4 @@
-# Social Media-EDA
+# Social Media EDA
 
 **Overview:**
 
